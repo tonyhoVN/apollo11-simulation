@@ -1,7 +1,7 @@
 # simulation-spacecraft-moon-lander
 Simulation the process travelling from Earth to land the Moon of Apolo11. 
 
-<img src="/Pictures/Earth_Moon">
+<img src="/Pictures/Earth_Moon.png">
 
 ## Assumption 
 - Neglect the effect moon orbit. The synodic is inertial frame. 
