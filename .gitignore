@@ -1,0 +1,4 @@
+# Ignore all .asv files
+*.asv
+*.csv
+./scripts/__pycache__
